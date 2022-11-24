@@ -8,7 +8,7 @@
     }
   ],
   
-  "more":[
+  "morex":[
    {
       "id":1,
       "title":"Ludo King",
@@ -29,7 +29,7 @@
     }
    ],
   
-  "Categories": [
+  "Categoriesx": [
     {
       "name_category": "Godzilla King",
       "wallpaper_url": "https://wallpaperaccess.com/full/1802944.png"
@@ -47,7 +47,7 @@
       "wallpaper_url": "https://i.pinimg.com/originals/46/ed/40/46ed40920c55e070240f47ac358df3d0.jpg"
     }
   ],
-  "Wallpaper": [
+  "Wallpaperx": [
     {
       "id": 1,
       "name_category": "Godzilla King",
